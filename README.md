@@ -1,11 +1,12 @@
-<p align="center">
-🚀 Hi Hola ¿Qué tal? 👩‍🚀
-</p>
-<p align="center">
-  저는 데이터분석을 공부하고 있는 대학생입니다 ^_^
-</p>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<!-- https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=midnight-purple -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=🚀 Leehwan GitHub 👩‍🚀&fontSize=90" />
+
+<div align="center">
+	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>
+</div>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawaipato&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=kawaipato&show_icons=true">
