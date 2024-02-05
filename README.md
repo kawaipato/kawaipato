@@ -3,6 +3,8 @@
 ## 🧑‍🚀 Here is my Tech Stack! 🚀
 <div>
 	<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
+	<img src="https://img.shields.io/badge/tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
+	<img src="https://img.shields.io/badge/rstudio-75AADB?style=flat&logo=rstudio&logoColor=white"/>
 	<img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
 	<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>
 	<img src="https://img.shields.io/badge/keras-D00000?style=flat&logo=keras&logoColor=white"/>
