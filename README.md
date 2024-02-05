@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Leehwan%20GitHub%20render&fontSize=30" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Leehwan%20GitHub!&fontSize=90" />
 <div align="center">
 	<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
 	<img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
